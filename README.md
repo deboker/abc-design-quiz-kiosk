@@ -44,7 +44,8 @@ The application includes an internal administration interface for reviewing subm
 
 ### Administration Dashboard
 
-<img width="1385" height="896" alt="SCR-20261126-qobm" src="https://github.com/user-attachments/assets/73baa802-dd4e-4b6a-8d22-c38bed2fa011" />
+<img width="2770" height="1792" alt="SCR-20261126-qobm" src="https://github.com/user-attachments/assets/6e429d5b-e49a-4393-a143-1a719c077be9" />
+
 
 
 ## Application Workflow
